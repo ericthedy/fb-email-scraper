@@ -1,6 +1,6 @@
 # Facebook Email Scraper
 
-As a marketer thre is a need to be able to scrape emails from websites. Some websites do not show emails at all. But most of them will show a 
+As a marketer there is a need to be able to scrape emails from websites. Some websites do not show emails at all. But most of them will show a 
 Facebook Business page url somewhere. Many times you will find a valid email on the Facebook Business page.
 
 This script takes a csv file as the input and scrapes all page urls in the spreasheet for emials using regex. To add complexity the scrape
